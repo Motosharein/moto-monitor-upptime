@@ -39,7 +39,7 @@ assignees:
 status-website:
   cname: 
   baseUrl: /moto-monitor-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime/master/assets/logo.png
   name: MotoShare Uptime Monitor
   introTitle: "MotoShare Websites Uptime and SSL Status"
   introMessage: This is a status page monitoring the uptime and SSL certificates of MotoShare websites.
@@ -48,6 +48,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/Motosharein/moto-monitor-upptime
+ favicon: https://raw.githubusercontent.com/upptime/upptime/master/assets/favicon.ico
 workflowSchedule:
   graphs: "*/5 * * * *"
   responseTime: "*/5 * * * *"
