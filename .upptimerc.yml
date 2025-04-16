@@ -51,4 +51,11 @@ workflowSchedule:
   updateTemplate: "*/5 * * * *"
   updates: "*/5 * * * *"
   uptime: "*/5 * * * *"
-
+notifications:
+  - type: email
+    smtpHost: pritesh.cotocus@gmail.com
+    smtpPort: 587
+    smtpUsername: pritesh.cotocus@gmail.com
+    smtpPassword: gegr lndx gmqv ionz  
+    smtpFrom: pritesh.cotocus@gmail.com
+    smtpTo: contact@motoshare.in,abhisheksingh.cotocus@gmail.com
