@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/motoshare.cn.ico",
     "slug": "moto-share-china-cn",
     "status": "down",
-    "uptime": "3.40%",
-    "uptimeDay": "3.40%",
-    "uptimeWeek": "3.40%",
-    "uptimeMonth": "3.40%",
-    "uptimeYear": "3.40%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 0
+      "2025-04-16": 9
     }
   },
   {
