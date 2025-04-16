@@ -34,8 +34,6 @@ sites:
   - name: MotoShare Africa
     url: https://motoshareafrica.com
     ssl: true
-assignees:
-  - pritesh-1904
 status-website:
   cname: 
   baseUrl: /moto-monitor-upptime
@@ -48,7 +46,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/Motosharein/moto-monitor-upptime
- favicon: https://raw.githubusercontent.com/upptime/upptime/master/assets/favicon.ico
 workflowSchedule:
   graphs: "*/5 * * * *"
   responseTime: "*/5 * * * *"
